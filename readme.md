@@ -5,11 +5,11 @@ Darryl Cohen
 
 <img src=https://ibin.co/3a6WSs4eblau.jpg width="300">
 
-The Problem
+## The Problem
 
-My daughter asked her to create her a painting game where she could use blocks to colour in pictures and not draw lines
+My daughter asked me to create her a painting game where she could use blocks to make pictures and not draw lines
 
-[Play the Game](https://darrylcohen.github.io/drawing_game/)
+[See the Drawing Game](https://darrylcohen.github.io/drawing_game/)
 
 [Please visit my web site](https://www.darrylcohen.com.au)
 
